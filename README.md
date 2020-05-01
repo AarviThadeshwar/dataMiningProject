@@ -1,7 +1,5 @@
-# dataMiningProject
-# CSCI 6443
+# CSCI 6443: Mining music data from Spotify using Python
 # Mahpara Nuzhat and Aarvi Thadeshwar
-# Mining music data from Spotify using Python'
 
 Through our project, we aim to extract hit song data from Spotify and use country-wise data to 
 analyze listening trends over the decade. This analysis should provide us with listener behavior 
