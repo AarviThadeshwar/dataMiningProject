@@ -1,0 +1,21 @@
+CSCI 6443: Data Mining
+Mining Data from Spotify using Python
+Aarvi Thadeshwar and Mahpara Nuzhat
+
+Project can be found at https://github.com/AarviThadeshwar/dataMiningProject.
+
+src contains Jupyter notebooks for all steps.
+- Data extraction: extracting data from Spotify using the Spotipy API
+- Data preprocessing: cleaning data by removing duplicates and modifying attributes
+- Data exploration: using analytics and visualizations to draw conclusions about data
+- Data mining: using logistic regression, k nearest neighbour and decision tree to classify data
+
+data contains the datasets used for Australia, Japan, UK and USA over 2011- 2019.
+
+To use this code:
+- Set up a Spotify Developer account to create your own dataset, or use the existing ones for exploration and mining. 
+https://developer.spotify.com
+
+- Install python3, jupyter notebook or jupyter lab, and the skikitlearn, matplotlib, pandas, seaborn and numpy libraries.
+
+- Run jupyter notebook in your terminal window and direct it to the location you have your files at.
